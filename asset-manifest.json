@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-color/static/css/main.aecdf8d9.css",
+    "main.js": "/React-color/static/js/main.87c73058.js",
+    "static/js/787.48bf6126.chunk.js": "/React-color/static/js/787.48bf6126.chunk.js",
+    "index.html": "/React-color/index.html",
+    "main.aecdf8d9.css.map": "/React-color/static/css/main.aecdf8d9.css.map",
+    "main.87c73058.js.map": "/React-color/static/js/main.87c73058.js.map",
+    "787.48bf6126.chunk.js.map": "/React-color/static/js/787.48bf6126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aecdf8d9.css",
+    "static/js/main.87c73058.js"
+  ]
+}
